@@ -1,0 +1,29 @@
+Problema02
+
+1.Inicio
+2. funcion principal()
+
+3.	valoresArreglo()
+
+4. fin funcion principal
+
+5. funcion valoresArreglo: X
+6.	(arreglo(5),x(60)[{a-z},{A-Z},{BS}])
+7.	indice, i[0-n]
+8.	texto,x(60)[{a-z},{A-Z},{BS}]
+9.	cadena,x(100)[{a-z},{A-Z},{BS}] <--""
+	
+10.	Para(indice<--0, indice<6, 1)
+11.		<<"Ingresar un texto corto"
+12.		>>texto
+
+13.		arreglo[indice]<--texto
+14.	Fin Para
+	
+15.	Para(indice<--0, indice<6, 1)
+16.		cadena<--cadena+arreglo[indice]+"\n"
+17.	Fin Para
+	
+18.	<<cadena
+19. fin funcion valoresArreglo
+20.Fin
