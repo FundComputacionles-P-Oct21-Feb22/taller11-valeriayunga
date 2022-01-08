@@ -7,7 +7,7 @@ Problema02
 
 4. fin funcion principal
 
-5. funcion valoresArreglo: X
+5. funcion valoresArreglo()
 6.	(arreglo(5),x(60)[{a-z},{A-Z},{BS}])
 7.	indice, i[0-n]
 8.	texto,x(60)[{a-z},{A-Z},{BS}]

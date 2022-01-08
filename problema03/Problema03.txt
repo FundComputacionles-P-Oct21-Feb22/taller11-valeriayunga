@@ -24,7 +24,7 @@ Problema03
 
 20. fin funcion principal
 
-21. funcion obtenerAreaCuadrado: d 
+21. funcion obtenerAreaCuadrado()
 22.	lado, d[0-n]
 23.	v3,d[0-n]
 24.	<<"Ingrese un lado del cuadrado"
@@ -34,7 +34,7 @@ Problema03
 28.	<<"El area del cuadrado es:"+v3
 29. fin funcion obtenerAreaCuadrado
 
-30. funcion obtenerAreaTriangulo: d 
+30. funcion obtenerAreaTriangulo()
 31.	base, d[0-n] <-- 0
 32.	altura, d[0-n] <-- 0
 33.	v3,d[0-n]
@@ -46,7 +46,7 @@ Problema03
 39.	<<"El area del triángulo es:"+v3
 40. fin funcion obtenerAreaTriangulo
 
-41. funcion obtenerAreaRectangulo: d
+41. funcion obtenerAreaRectangulo()
 42.	base, d[0-n] <-- 0
 43.	altura, d[0-n]<-- 0
 	v3,d[0-n]
