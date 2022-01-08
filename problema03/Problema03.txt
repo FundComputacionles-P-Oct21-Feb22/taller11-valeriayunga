@@ -29,8 +29,7 @@ Problema03
 23.	v3,d[0-n]
 24.	<<"Ingrese un lado del cuadrado"
 25.	<<lado
-26. 	v3,d[0-n]
-27.	v3 <-- lado * 4
+27.	v3 <-- lado * lado
 28.	<<"El area del cuadrado es:"+v3
 29. fin funcion obtenerAreaCuadrado
 
